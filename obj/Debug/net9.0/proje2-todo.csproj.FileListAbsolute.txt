@@ -1,0 +1,14 @@
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\proje2-todo\bin\Debug\net9.0\proje2-todo.exe
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\proje2-todo\bin\Debug\net9.0\proje2-todo.deps.json
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\proje2-todo\bin\Debug\net9.0\proje2-todo.runtimeconfig.json
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\proje2-todo\bin\Debug\net9.0\proje2-todo.dll
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\proje2-todo\bin\Debug\net9.0\proje2-todo.pdb
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\proje2-todo\obj\Debug\net9.0\proje2-todo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\proje2-todo\obj\Debug\net9.0\proje2-todo.AssemblyInfoInputs.cache
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\proje2-todo\obj\Debug\net9.0\proje2-todo.AssemblyInfo.cs
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\proje2-todo\obj\Debug\net9.0\proje2-todo.csproj.CoreCompileInputs.cache
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\proje2-todo\obj\Debug\net9.0\proje2-todo.dll
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\proje2-todo\obj\Debug\net9.0\refint\proje2-todo.dll
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\proje2-todo\obj\Debug\net9.0\proje2-todo.pdb
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\proje2-todo\obj\Debug\net9.0\proje2-todo.genruntimeconfig.cache
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\proje2-todo\obj\Debug\net9.0\ref\proje2-todo.dll
